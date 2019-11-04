@@ -55,3 +55,6 @@ http://localhost:8080/
 本番とかだとこのページになる
 http://localhost:5000/
 ```
+
+参考：
+https://dev.classmethod.jp/server-side/python/flask-local-develop/
